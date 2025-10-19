@@ -1,0 +1,23 @@
+{
+  "tables": {
+    "users3": {}
+  },
+  "schemas": {
+    "users3": {
+      "columns": {
+        "id": {
+          "type": "INT",
+          "primary_key": true
+        },
+        "name": {
+          "type": "TEXT"
+        }
+      }
+    }
+  },
+  "indexes": {},
+  "metadata": {
+    "last_updated": "2025-10-19T19:09:06.749035",
+    "total_tables": 1
+  }
+}
